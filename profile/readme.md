@@ -3,6 +3,6 @@ In this class you will learn some of the computer skills you will need to succee
 
 Students in this section will use git for version control and submit assignments via github. 
 
-This file should contain links to the Astro 201 assignment repositories. 
+The repository 2024-spring contains all class exercises for the semester. 
 
-It doesn't yet, because I haven't created them. 
+Each student will have a personal repository for assignment submission. 
